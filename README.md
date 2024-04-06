@@ -1,5 +1,5 @@
 # ForgedInFrontier
-
+---
 # Welcome To ForgedInFrontier!
 An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to __Test Your Mortality!__
 
@@ -9,7 +9,7 @@ Each interior has already been balanced so no need to worry about having an infi
 
 ## ![Moons Information](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif)
 <details>
-<summary>[Moon Prices and Descriptions](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif)</summary>
+<summary>Moon Prices & Info</summary>
 
 # __Risk Level: Less Than Lethal__ :warning:
 - **Aquatis** — ▮0 (*sfDesat*)
