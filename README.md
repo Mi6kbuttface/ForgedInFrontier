@@ -1,6 +1,6 @@
 # ForgedInFrontier
 ---
-# Welcome To ForgedInFrontier!
+# [⚙️BETA⚙️] Welcome To ForgedInFrontier!
 An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to __Test Your Mortality!__
 
 This expansion was crafted to create the perfect blend between the most vanilla-friendly Moons and Interiors, carefully marrying each moon with the perfect interior to complement it. 
