@@ -1,13 +1,13 @@
 # ForgedInFrontier
 ---
 # [RELEASE!!!] Welcome To ForgedInFrontier!
-### [1.0.0][For LC v49] An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to __Test Your Mortality!__
+### [1.0.0] [For LC v49] An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to __Test Your Mortality!__
 
 This expansion was crafted to create the perfect blend between the most vanilla-friendly Moons and Interiors, carefully marrying each moon with the perfect interior to complement it. 
 Each interior has already been balanced so no need to worry about having an infinite maze with no scrap in sight.
 **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
 
-# Moons
+# 🌑 Moons! 🌑
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif)
 <details>
 <summary>Moon Prices & Info</summary>
