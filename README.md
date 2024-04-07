@@ -9,8 +9,7 @@ Each interior has already been balanced so no need to worry about having an infi
 
 # 🌑 Moons! 🌑
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif)
-## <details>
-<summary>Moon Prices & Info</summary>
+## <details> <summary>Moon Prices & Info</summary>
 
 # __Risk Level: Less Than Lethal__ :warning:
 - **Aquatis** — ▮0 (*sfDesat*)
