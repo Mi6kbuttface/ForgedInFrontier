@@ -13,13 +13,13 @@ Each interior has already been balanced so no need to worry about having an infi
 
 # __Risk Level: Less Than Lethal__ :warning:
 - **Aquatis** — ▮0 (*sfDesat*)
---- A Tropical Moon, populated with various green islands blooming with life, wildlife is relatively benign; intel shows this could be a storage facility used by pirates. The Company believes this is a fabricated story and advises you not to dig for buried treasure.
+    - A Tropical Moon, populated with various green islands blooming with life, wildlife is relatively benign; intel shows this could be a storage facility used by pirates. The Company believes this is a fabricated story and advises you not to dig for buried treasure.
 - **Junic** — ▮30 (*Magic_Wesley*)
- - A Deadly Jungle Moon, covered in ancient temples and even more ancient rituals. The Company is not liable for any curses you may contract.
+ - A Deadly Jungle Moon, covered in ancient ==temples== and even more ancient rituals. The Company is not liable for any curses you may contract.
 
 - **Cosmocos** - ▮1000 *(Magic_Wesley)* --- `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
 
-- **Sector-0** - ▮1750 *(RosiePies)* --- ==[TRAVEL TO THIS MOON IS PROHIBITIED]== | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have _Consequences._
+- **Sector-0** - ▮1750 *(RosiePies)* --- [TRAVEL TO THIS MOON IS PROHIBITIED] | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have _Consequences._
 </details>
 
 ## Interiors Information
