@@ -7,6 +7,12 @@ This expansion was crafted to create the perfect blend between the most vanilla-
 Each interior has already been balanced so no need to worry about having an infinite maze with no scrap in sight.
 **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 # 🌑 Moons! 🌑
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif)
 <details><summary>Moon Prices & Info</summary>
