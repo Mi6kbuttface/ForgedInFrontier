@@ -15,7 +15,7 @@ Each interior has already been balanced so no need to worry about having an infi
 - **Aquatis** — ▮0 (*sfDesat*)
     - A Tropical Moon, populated with various green islands blooming with life, wildlife is relatively benign; intel shows this could be a storage facility used by pirates. The Company believes this is a fabricated story and advises you not to dig for buried treasure.
 - **Junic** — ▮30 (*Magic_Wesley*)
- - A Deadly Jungle Moon, covered in ancient ==temples== and even more ancient rituals. The Company is not liable for any curses you may contract.
+    - A Deadly Jungle Moon, covered in ancient temples and even more ancient rituals. The Company is not liable for any curses you may contract.
 
 - **Cosmocos** - ▮1000 *(Magic_Wesley)* --- `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
 
