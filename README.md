@@ -34,7 +34,7 @@ Each interior has already been balanced so no need to worry about having an infi
 - **Scarlet Mansion** *(Alice)*
 - **Mental Hospital** *(Dantor)*
 - **PoolRooms** *(skidz)*
-</details>
+## </details>
 
 
 ## Credit
