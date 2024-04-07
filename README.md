@@ -6,9 +6,9 @@
 This expansion was crafted to create the perfect blend between the most vanilla-friendly Moons and Interiors, carefully marrying each moon with the perfect interior to complement it. 
 Each interior has already been balanced so no need to worry about having an infinite maze with no scrap in sight.
 #### **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
-
+---
 # 🌑 Moons! 🌑
-![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif)
+![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif?raw=true)
 <details><summary>Moon Prices & Info</summary>
 
 ## <ins>Risk Level: Less Than Lethal</ins> ⚠️
@@ -62,8 +62,8 @@ Each interior has already been balanced so no need to worry about having an infi
 - **Sector-0** — ▮1750 (*RosiePies*)
     - <mark>[TRAVEL TO THIS MOON IS PROHIBITIED]</mark> | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have *Consequences*.
 </details>
-
-# Interiors!
+---
+# 🔑 Interiors! 🔑
 ![Interiors](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierInteriorsBanner.gif?raw=true)
 <details>
 <summary>Interior Features & Info</summary>
@@ -83,7 +83,7 @@ Each interior has already been balanced so no need to worry about having an infi
 -
 -
 ![Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/SewerV.gif?raw=true)
-
+---
 ## <ins>🐀 Sewer 🐀 (*scoopy*) 🐀</ins>
 **The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further in the gross facility that soon will claim your body as its own.**
 ### <ins>Features</ins>
