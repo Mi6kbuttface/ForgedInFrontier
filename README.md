@@ -46,7 +46,7 @@ Each interior has already been balanced so no need to worry about having an infi
 - **Acidir** — ▮580 (*Magic_Wesley*)
     - A Mysterious cursed moon, within an acidic swamp lies an old mansion with remains of something... lies inside.
 - **Oldred** — ▮720 (Magic_Wesley)
-    - A Slick Shadowy Moon, rich in its abundance of natural crude oil, mining rigs were constructed in hopes of massive profits; however, many horrors deterred most from the devastation this moon can create.
+    - A Slick Shadowy Moon, rich in its abundant natural crude oil, mining rigs were constructed in hopes of massive profits; however, many horrors deterred most from the devastation this moon can create.
 - **Orion** — ▮750 (*sfDesat*)
     - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
 - **Etern** — ▮750 (*Magic_Wesley*)
@@ -70,10 +70,11 @@ Each interior has already been balanced so no need to worry about having an infi
 
 ## ⛓️ Dungeon ⛓️ (*scoopy*) ⛓️
  **The Dungeon is a dark stone prison, consisting of dim torch-lit corridors and murky castle brick walls. Metal-plated dark oak doors may lead you to spiral staircases further into the labyrinth and your chance of survival.**
-### __Features__
+##### __Features__
 - Blue fire torches light fire escapes
 - Abandoned treasure of a King lies deepest in the labyrinth
 - Many dungeon cells remain intact, useful for trapping enemies in a pinch
+
 </details>
 
 
