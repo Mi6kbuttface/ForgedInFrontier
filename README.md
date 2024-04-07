@@ -51,7 +51,16 @@ Each interior has already been balanced so no need to worry about having an infi
  - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
 - **Etern** — ▮750 (*Magic_Wesley*)
  - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
-
+# __Risk Level: S+__ :warning:
+- **Auralis** — ▮750 (*AudioKnight*)
+ - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
+- **Etern** — ▮750 (*Magic_Wesley*)
+ - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
+# __Risk Level: SSS+__ :warning:
+- **Cosmocos** — ▮1000 (Magic_Wesley)
+ - ``?̸͑̂?̸̓̀?̷̇͒?̸̏̈?̸͂̕ ̷̄͠?̶̇? ???̸̊́?̵̊͆?̷͑̄?̴̛̑??``
+- **Sector-0** — ▮1750 (*RosiePies*)
+ - ``<mark>[TRAVEL TO THIS MOON IS PROHIBITIED]<mark/>`` | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have Consequences.
 
 
 - **Cosmocos** - ▮1000 *(Magic_Wesley)* --- `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
