@@ -16,6 +16,26 @@ Each interior has already been balanced so no need to worry about having an infi
     - A Tropical Moon, populated with various green islands blooming with life, wildlife is relatively benign; intel shows this could be a storage facility used by pirates. The Company believes this is a fabricated story and advises you not to dig for buried treasure.
 - **Junic** — ▮30 (*Magic_Wesley*)
     - A Deadly Jungle Moon, covered in ancient temples and even more ancient rituals. The Company is not liable for any curses you may contract.
+# __Risk Level: B__ :warning:
+> - **Asteroid-13** — ▮0 (*Magic_Wesley*)
+>  - A Pitch-Black Asteroid, recorded as a biological weapon test site with high-value research estimated inside.
+> - **Solace** — ▮0 (*AudioKnight*)
+>  - A Tranquil Moon, known to house many vacation villas by wealthy quintillionaires, abandoned due to growing hostile fauna.
+> - **Eve** — ▮110 (*RosiePies*)
+>  - A Life Suitable Moon, once the center of the Eve Colonization Project, a perfectly suitable host to sustain life, a flourishing colony thrived here until distress signals were received, investigate further and seek for survivors.
+> - **Atlantica** — ▮130 (*Magic_Wesley*)
+>  - An Oceanic Moon, containing a city in a cursed time paradox that causes it to sink repeatedly. Recover its artifacts with haste.
+> - **Gloom** — ▮220 (*Magic_Wesley*)
+>  - A Dark Deep Forest Moon, its looming trees prove to be an untapped resource, but the last company to land here faced nature's authority.
+> - **Infernis** — ▮280 (*Magic_Wesley*)
+>  - A Volcanic Moon, erupting with lava rivers, hostile creatures, and valuable crystal materials.
+> - **Celest** — ▮350 (sfDesat)
+>  - An Autumn Valley Moon, populated with a lush red forest and foliage, housing a factory still containing valuable material within.
+> - **Triskelion** — ▮350 (*AudioKnight*)
+>  - A Gaseous Giant Moon, holding a mining platform to siphon its natural resources. The platforms are unmaintained, structural integrity is questionable; don't slip.
+
+
+
 
 - **Cosmocos** - ▮1000 *(Magic_Wesley)* --- `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
 
