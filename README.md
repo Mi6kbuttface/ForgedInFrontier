@@ -35,25 +35,25 @@ Each interior has already been balanced so no need to worry about having an infi
     - A Gaseous Giant Moon, holding a mining platform to siphon its natural resources. The platforms are unmaintained, structural integrity is questionable; don't slip.
 # __Risk Level: A__ ⚠️
 - **Gratar** — ▮430 (*Magic_Wesley*)
- - A Mountainous Moon, once known for the largest AI-powered factory in the solar system, may still contain many high-value resources.
+    - A Mountainous Moon, once known for the largest AI-powered factory in the solar system, may still contain many high-value resources.
 - **Desolation** — ▮510 (*Magic_Wesley*)
- - A Deserted Asteroid, seemingly desolate of all life. However, from an orbit view, you can see a red mass pulsating across the surface. Further exploration is not advised.
+    - A Deserted Asteroid, seemingly desolate of all life. However, from an orbit view, you can see a red mass pulsating across the surface. Further exploration is not advised.
 - **Fission-C** — ▮600 (*Magic_Wesley*)
- - A Radioactive Moon, housing an old toy factory retrofitted as a nuclear power plant, highly radioactive materials and toxic waste remain inside the facility.
+    - A Radioactive Moon, housing an old toy factory retrofitted as a nuclear power plant, highly radioactive materials and toxic waste remain inside the facility.
 - **Polarus** — ▮650 (*Magic_Wesley*)
- - A Frozen Moon, home to the legendary Polar Vaults, has yet to be reclaimed, and its riches and treasures are buried deep.
+    - A Frozen Moon, home to the legendary Polar Vaults, has yet to be reclaimed, and its riches and treasures are buried deep.
 # __Risk Level: S__ ⚠️
 - **Acidir** — ▮580 (*Magic_Wesley*)
- - A Mysterious cursed moon, within an acidic swamp lies an old mansion with remains of something... lies inside.
+    - A Mysterious cursed moon, within an acidic swamp lies an old mansion with remains of something... lies inside.
 - **Oldred** — ▮720 (Magic_Wesley)
- - A Slick Shadowy Moon, rich in its abundance of natural crude oil, mining rigs were constructed in hopes of massive profits; however, many horrors deterred most from the devastation this moon can create.
+    - A Slick Shadowy Moon, rich in its abundance of natural crude oil, mining rigs were constructed in hopes of massive profits; however, many horrors deterred most from the devastation this moon can create.
 - **Orion** — ▮750 (*sfDesat*)
- - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
+  - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
 - **Etern** — ▮750 (*Magic_Wesley*)
- - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
+    - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
 # __Risk Level: S+__ ⚠️
 - **Auralis** — ▮750 (*AudioKnight*)
- - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
+    - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
 - **Etern** — ▮750 (*Magic_Wesley*)
  - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
 # __Risk Level: SSS+__ ⚠️
