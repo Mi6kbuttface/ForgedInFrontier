@@ -50,7 +50,7 @@ Each interior has already been balanced so no need to worry about having an infi
 - **Orion** — ▮750 (*sfDesat*)
   - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
 - **Etern** — ▮750 (*Magic_Wesley*)
-    - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
+  - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
 # __Risk Level: S+__ ⚠️
 - **Auralis** — ▮750 (*AudioKnight*)
     - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
