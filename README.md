@@ -11,6 +11,7 @@ Each interior has already been balanced so no need to worry about having an infi
 [Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif)
 
 <details><summary>Moon Prices & Info</summary>
+
 # __Risk Level: Less Than Lethal__ :warning:
 - **Aquatis** — ▮0 (*sfDesat*)
  - A Tropical Moon, populated with various green islands blooming with life, wildlife is relatively benign; intel shows this could be a storage facility used by pirates. The Company believes this is a fabricated story and advises you not to dig for buried treasure.
