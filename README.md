@@ -68,13 +68,20 @@ Each interior has already been balanced so no need to worry about having an infi
 <details>
 <summary>Interior Features & Info</summary>
 
-## ⛓️ Dungeon ⛓️ (*scoopy*) ⛓️
+## __⛓️ Dungeon ⛓️ (*scoopy*) ⛓️__
  **The Dungeon is a dark stone prison, consisting of dim torch-lit corridors and murky castle brick walls. Metal-plated dark oak doors may lead you to spiral staircases further into the labyrinth and your chance of survival.**
-##### __Features__
+### __Features__
 - Blue fire torches light fire escapes
 - Abandoned treasure of a King lies deepest in the labyrinth
 - Many dungeon cells remain intact, useful for trapping enemies in a pinch
-
+[Dungeon Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/DungeonV.gif?raw=true)
+## __🐀 Sewer 🐀 (*scoopy*) 🐀__
+**The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further in the gross facility that soon will claim your body as its own.**
+### __Features__
+-
+-
+-
+[Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/SewerV.gif?raw=true)
 </details>
 
 
