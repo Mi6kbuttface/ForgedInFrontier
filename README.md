@@ -68,13 +68,12 @@ Each interior has already been balanced so no need to worry about having an infi
 <details>
 <summary>Interior Features & Info</summary>
 
-- **Dungeon** *(scoopy)*
-- **Sewer** *(scoopy)*
-- **Bunker** *(Major_And_Skiz)*
-- **Office** *(Magic_Wesley)*
-- **Scarlet Mansion** *(Alice)*
-- **Mental Hospital** *(Dantor)*
-- **PoolRooms** *(skidz)*
+## ⛓️ Dungeon ⛓️ (*scoopy*) ⛓️
+ **The Dungeon is a dark stone prison, consisting of dim torch-lit corridors and murky castle brick walls. Metal-plated dark oak doors may lead you to spiral staircases further into the labyrinth and your chance of survival.**
+### __Features__
+- Blue fire torches light fire escapes
+- Abandoned treasure of a King lies deepest in the labyrinth
+- Many dungeon cells remain intact, useful for trapping enemies in a pinch
 </details>
 
 
