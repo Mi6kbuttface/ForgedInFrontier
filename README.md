@@ -1,7 +1,7 @@
 # ForgedInFrontier
 ---
-# [RELEASE!!!] Welcome To ForgedInFrontier!
-### [1.0.0] [For LC v49] An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to __Test Your Mortality!__
+# [RELEASE!!!] <u>Welcome To ForgedInFrontier!</u>
+### [1.0.0] [For LC v49] An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to <u>Test Your Mortality!</u>
 
 This expansion was crafted to create the perfect blend between the most vanilla-friendly Moons and Interiors, carefully marrying each moon with the perfect interior to complement it. 
 Each interior has already been balanced so no need to worry about having an infinite maze with no scrap in sight.
@@ -11,12 +11,12 @@ Each interior has already been balanced so no need to worry about having an infi
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif)
 <details><summary>Moon Prices & Info</summary>
 
-## __Risk Level: Less Than Lethal__ ⚠️
+## <u>Risk Level: Less Than Lethal</u> ⚠️
 - **Aquatis** — ▮0 (*sfDesat*)
     - A Tropical Moon, populated with various green islands blooming with life, wildlife is relatively benign; intel shows this could be a storage facility used by pirates. The Company believes this is a fabricated story and advises you not to dig for buried treasure.
 - **Junic** — ▮30 (*Magic_Wesley*)
     - A Deadly Jungle Moon, covered in ancient temples and even more ancient rituals. The Company is not liable for any curses you may contract.
-## __Risk Level: B__ ⚠️
+## <u>Risk Level: B</u> ⚠️
 - **Asteroid-13** — ▮0 (*Magic_Wesley*)
     - A Pitch-Black Asteroid, recorded as a biological weapon test site with high-value research estimated inside.
 - **Solace** — ▮0 (*AudioKnight*)
@@ -33,7 +33,7 @@ Each interior has already been balanced so no need to worry about having an infi
     - An Autumn Valley Moon, populated with a lush red forest and foliage, housing a factory still containing valuable material within.
 - **Triskelion** — ▮350 (*AudioKnight*)
     - A Gaseous Giant Moon, holding a mining platform to siphon its natural resources. The platforms are unmaintained, structural integrity is questionable; don't slip.
-## __Risk Level: A__ ⚠️
+## <u>Risk Level: A</u> ⚠️
 - **Gratar** — ▮430 (*Magic_Wesley*)
     - A Mountainous Moon, once known for the largest AI-powered factory in the solar system, may still contain many high-value resources.
 - **Desolation** — ▮510 (*Magic_Wesley*)
@@ -42,7 +42,7 @@ Each interior has already been balanced so no need to worry about having an infi
     - A Radioactive Moon, housing an old toy factory retrofitted as a nuclear power plant, highly radioactive materials and toxic waste remain inside the facility.
 - **Polarus** — ▮650 (*Magic_Wesley*)
     - A Frozen Moon, home to the legendary Polar Vaults, has yet to be reclaimed, and its riches and treasures are buried deep.
-## __Risk Level: S__ ⚠️
+## <u>Risk Level: S</u> ⚠️
 - **Acidir** — ▮580 (*Magic_Wesley*)
     - A Mysterious cursed moon, within an acidic swamp lies an old mansion with remains of something... lies inside.
 - **Oldred** — ▮720 (Magic_Wesley)
@@ -51,12 +51,12 @@ Each interior has already been balanced so no need to worry about having an infi
     - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
 - **Etern** — ▮750 (*Magic_Wesley*)
     - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
-## __Risk Level: S+__ ⚠️
+## <u>Risk Level: S+</u> ⚠️
 - **Auralis** — ▮750 (*AudioKnight*)
     - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
 - **Etern** — ▮750 (*Magic_Wesley*)
     - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
-## __Risk Level: SSS+__ ⚠️
+## <u>Risk Level: SSS+</u> ⚠️
 - **Cosmocos** — ▮1000 (Magic_Wesley)
     - `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
 - **Sector-0** — ▮1750 (*RosiePies*)
@@ -68,16 +68,16 @@ Each interior has already been balanced so no need to worry about having an infi
 <details>
 <summary>Interior Features & Info</summary>
 
-## __⛓️ Dungeon ⛓️ (*scoopy*) ⛓️__
+## <u>⛓️ Dungeon ⛓️ (*scoopy*) ⛓️</u>
  **The Dungeon is a dark stone prison, consisting of dim torch-lit corridors and murky castle brick walls. Metal-plated dark oak doors may lead you to spiral staircases further into the labyrinth and your chance of survival.**
-### __Features__
+### <u>Features</u>
 - Blue fire torches light fire escapes
 - Abandoned treasure of a King lies deepest in the labyrinth
 - Many dungeon cells remain intact, useful for trapping enemies in a pinch
 [Dungeon Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/DungeonV.gif?raw=true)
-## __🐀 Sewer 🐀 (*scoopy*) 🐀__
+## <u>🐀 Sewer 🐀 (*scoopy*) 🐀</u>
 **The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further in the gross facility that soon will claim your body as its own.**
-### __Features__
+### <u>Features</u>
 -
 -
 -
