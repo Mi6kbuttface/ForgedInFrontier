@@ -60,7 +60,7 @@ Each interior has already been balanced so no need to worry about having an infi
 - **Cosmocos** — ▮1000 (Magic_Wesley)
  - ``?̸͑̂?̸̓̀?̷̇͒?̸̏̈?̸͂̕ ̷̄͠?̶̇? ???̸̊́?̵̊͆?̷͑̄?̴̛̑??``
 - **Sector-0** — ▮1750 (*RosiePies*)
- - ``<mark>[TRAVEL TO THIS MOON IS PROHIBITIED]<mark/>`` | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have Consequences.
+ - <mark>``[TRAVEL TO THIS MOON IS PROHIBITIED]``</mark> | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have Consequences.
 
 
 - **Cosmocos** - ▮1000 *(Magic_Wesley)* --- `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
