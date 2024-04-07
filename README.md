@@ -17,7 +17,6 @@ Each interior has already been balanced so no need to worry about having an infi
 - **Junic** — ▮30 (*Magic_Wesley*)
  - A Deadly Jungle Moon, covered in ancient temples and even more ancient rituals. The Company is not liable for any curses you may contract.
 
-
 - **Cosmocos** - ▮1000 *(Magic_Wesley)* --- `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
 
 - **Sector-0** - ▮1750 *(RosiePies)* --- `[TRAVEL TO THIS MOON IS PROHIBITIED]` | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have _Consequences._
