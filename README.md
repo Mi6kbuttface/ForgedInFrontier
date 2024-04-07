@@ -48,14 +48,14 @@ Each interior has already been balanced so no need to worry about having an infi
 - **Oldred** — ▮720 (Magic_Wesley)
     - A Slick Shadowy Moon, rich in its abundance of natural crude oil, mining rigs were constructed in hopes of massive profits; however, many horrors deterred most from the devastation this moon can create.
 - **Orion** — ▮750 (*sfDesat*)
-  - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
+    - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
 - **Etern** — ▮750 (*Magic_Wesley*)
-  - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
+    - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
 # __Risk Level: S+__ ⚠️
 - **Auralis** — ▮750 (*AudioKnight*)
     - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
 - **Etern** — ▮750 (*Magic_Wesley*)
- - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
+    - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
 # __Risk Level: SSS+__ ⚠️
 - **Cosmocos** — ▮1000 (Magic_Wesley)
     - `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
@@ -63,9 +63,10 @@ Each interior has already been balanced so no need to worry about having an infi
     - <mark>[TRAVEL TO THIS MOON IS PROHIBITIED]</mark> | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have *Consequences*.
 </details>
 
-## Interiors Information
+# Interiors!
+![Interiors](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierInteriorsBanner.gif?raw=true)
 <details>
-<summary>Interior Features and Descriptions</summary>
+<summary>Interior Features & Info</summary>
 
 - **Dungeon** *(scoopy)*
 - **Sewer** *(scoopy)*
