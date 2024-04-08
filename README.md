@@ -88,15 +88,15 @@ Each interior has already been balanced so no need to worry about having an infi
 ![Dungeon Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/DungeonV.gif?raw=true)
 
 ## <ins>🐀 Sewer 🐀 (*scoopy*) 🐀</ins>
-**The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further in the gross facility that soon will claim your body as its own.**
+**The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further inyo the gross facility that soon will claim your body as its own.**
 ### <ins>Features</ins>
-- Ladder
-- sdfgcvhvfdfsAzfgchjk sadfghjikhftrydytdutyrdrtdrtesdtrsrytf6ywsrtysresdytr duydtursdytrdtu srtde6 j srtsjt ss trs rtjdtyrsdytrdtrdtrshrs ehsd tres tryes xtdrd tddrtdjytrd rdrtdrtsdytjdtrydyj rtd udfrtydf7tf yutd tudtyudftyk
-- raghtfhgfxcgdfctycytxcjyftfyuytfyiutfutyftyftytyftyftyftyftyftfytuftyfyt
+- Choose a ladder or stairway as your path into the sewer
+- Long corridors is adventageous in both the search for scrap and avoidance of enemies.
+- Broken pipe parkour rooms can be used to distance yourself from hostiles
 ![Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/SewerV.gif?raw=true)
 
 ## <ins>☢️ Bunker ☢️ (*Major_And_Skiz*) ☢️</ins>
-**Blank**
+**The Bunker is a **
 ### <ins>Features</ins>
 -
 -
