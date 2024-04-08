@@ -11,7 +11,7 @@ Each interior has already been balanced so no need to worry about having an infi
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif?raw=true)
 <details><summary>
 
-## **Moon Prices & Info**
+## Moon Prices & Info
 </summary>
 
 ## <ins>Risk Level: Less Than Lethal</ins> ⚠️
@@ -90,7 +90,7 @@ Each interior has already been balanced so no need to worry about having an infi
 ## <ins>🐀 Sewer 🐀 (*scoopy*) 🐀</ins>
 **The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further in the gross facility that soon will claim your body as its own.**
 ### <ins>Features</ins>
--
+- Ladder
 -
 -
 ![Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/SewerV.gif?raw=true)
