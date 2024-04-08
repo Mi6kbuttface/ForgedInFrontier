@@ -10,6 +10,7 @@ Each interior has already been balanced so no need to worry about having an infi
 # 🌑 Moons! 🌑
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif?raw=true)
 <details><summary>
+
 ## **Moon Prices & Info**
 </summary>
 
@@ -73,7 +74,10 @@ Each interior has already been balanced so no need to worry about having an infi
 ---
 # 🔑 Interiors! 🔑
 ![Interiors](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierInteriorsBanner.gif?raw=true)
-<details><summary>Interior Features & Info</summary>
+<details><summary>
+
+## Interior Features & Info
+</summary>
 
 ## <ins>⛓️ Dungeon ⛓️ (*scoopy*) ⛓️</ins>
  **The Dungeon is a dark stone prison, consisting of dim torch-lit corridors and murky castle brick walls. Metal-plated dark oak doors may lead you to spiral staircases further into the labyrinth and your chance of survival.**
