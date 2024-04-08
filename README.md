@@ -10,6 +10,7 @@ Each interior has already been balanced so no need to worry about having an infi
 # 🌑 Moons! 🌑
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif?raw=true)
 <details><summary>Moon Prices & Info</summary>
+
 ## <ins>Risk Level: Less Than Lethal</ins> ⚠️
 <details><summary></summary>
 
@@ -20,6 +21,8 @@ Each interior has already been balanced so no need to worry about having an infi
 </details>
 
 ## <ins>Risk Level: B</ins> ⚠️
+<details><summary></summary>
+
 - **Asteroid-13** — ▮0 (*Magic_Wesley*)
     - A Pitch-Black Asteroid, recorded as a biological weapon test site with high-value research estimated inside.
 - **Solace** — ▮0 (*AudioKnight*)
@@ -36,6 +39,8 @@ Each interior has already been balanced so no need to worry about having an infi
     - An Autumn Valley Moon, populated with a lush red forest and foliage, housing a factory still containing valuable material within.
 - **Triskelion** — ▮350 (*AudioKnight*)
     - A Gaseous Giant Moon, holding a mining platform to siphon its natural resources. The platforms are unmaintained, structural integrity is questionable; don't slip.
+</details>
+
 ## <ins>Risk Level: A</ins> ⚠️
 - **Gratar** — ▮430 (*Magic_Wesley*)
     - A Mountainous Moon, once known for the largest AI-powered factory in the solar system, may still contain many high-value resources.
