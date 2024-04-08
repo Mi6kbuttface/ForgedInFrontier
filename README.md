@@ -117,7 +117,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 -
 ![Office Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/OfficeV.gif?raw=true)
 
-## <ins>㊙️ Scarlet Devil Mansion ㊙️ (*Alice*) ㊙️</ins>
+## <ins>☯️ Scarlet Devil Mansion ☯️ (*Alice*) ☯️</ins>
 **The Scarlet Devil Mansion**
 ### <ins>Features</ins>
 -
