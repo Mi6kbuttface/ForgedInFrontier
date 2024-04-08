@@ -12,17 +12,12 @@ Each interior has already been balanced so no need to worry about having an infi
 <details><summary>Moon Prices & Info</summary>
 
 ## <ins>Risk Level: Less Than Lethal</ins> ⚠️
-<details><summary></summary>
-
 - **Aquatis** — ▮0 (*sfDesat*)
     - A Tropical Moon, populated with various green islands blooming with life, wildlife is relatively benign; intel shows this could be a storage facility used by pirates. The Company believes this is a fabricated story and advises you not to dig for buried treasure.
 - **Junic** — ▮30 (*Magic_Wesley*)
     - A Deadly Jungle Moon, covered in ancient temples and even more ancient rituals. The Company is not liable for any curses you may contract.
-</details>
 
 ## <ins>Risk Level: B</ins> ⚠️
-<details><summary></summary>
-
 - **Asteroid-13** — ▮0 (*Magic_Wesley*)
     - A Pitch-Black Asteroid, recorded as a biological weapon test site with high-value research estimated inside.
 - **Solace** — ▮0 (*AudioKnight*)
@@ -39,11 +34,8 @@ Each interior has already been balanced so no need to worry about having an infi
     - An Autumn Valley Moon, populated with a lush red forest and foliage, housing a factory still containing valuable material within.
 - **Triskelion** — ▮350 (*AudioKnight*)
     - A Gaseous Giant Moon, holding a mining platform to siphon its natural resources. The platforms are unmaintained, structural integrity is questionable; don't slip.
-</details>
 
 ## <ins>Risk Level: A</ins> ⚠️
-<details><summary></summary>
-
 - **Gratar** — ▮430 (*Magic_Wesley*)
     - A Mountainous Moon, once known for the largest AI-powered factory in the solar system, may still contain many high-value resources.
 - **Desolation** — ▮510 (*Magic_Wesley*)
@@ -52,11 +44,8 @@ Each interior has already been balanced so no need to worry about having an infi
     - A Radioactive Moon, housing an old toy factory retrofitted as a nuclear power plant, highly radioactive materials and toxic waste remain inside the facility.
 - **Polarus** — ▮650 (*Magic_Wesley*)
     - A Frozen Moon, home to the legendary Polar Vaults, has yet to be reclaimed, and its riches and treasures are buried deep.
-</details>
 
 ## <ins>Risk Level: S</ins> ⚠️
-<details><summary></summary>
-
 - **Acidir** — ▮580 (*Magic_Wesley*)
     - A Mysterious cursed moon, within an acidic swamp lies an old mansion with remains of something... lies inside.
 - **Oldred** — ▮720 (Magic_Wesley)
@@ -65,23 +54,18 @@ Each interior has already been balanced so no need to worry about having an infi
     - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
 - **Etern** — ▮750 (*Magic_Wesley*)
     - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
-</details>
 
 ## <ins>Risk Level: S+</ins> ⚠️
-<details><summary></summary>
 - **Auralis** — ▮750 (*AudioKnight*)
     - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
 - **Etern** — ▮750 (*Magic_Wesley*)
     - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
-</details>
 
 ## <ins>Risk Level: SSS+</ins> ⚠️
-<details><summary></summary>
 - **Cosmocos** — ▮1000 (Magic_Wesley)
     - `?̸͖͎̗̬͎͖͑̂̎͊͛ͅ?̸͈̓̀̍̈̒͌?̷̛̟̭͓̗̇͒̋̊̀̄̓̊͝?̸̗̠̬̩̲͖͕̤̏̈̔̃̽̆̃̌͋͘?̸͕̮͂̓̕ ̷̰̣̰̲̳̙̄̽͠?̶̭̦̜̠͎͚̇͛̏̀̓͋͛?̶̳̗̙͓̜͙̫͉̑͆̃͌̐̄̚͝ ̸̢̞̘̦̭̘̯͈̈̒͋̏͆͆̓̀̋̀?̴͚̼̳̠̞̩̑̒̋̃̌̓͜͝?̵̧͔͖̣̊̈̌͆?̸̟̳̙̊́̈̓̅́?̵̨̡̲͎̗̤͕̊͆͛̈́̀̍̕?̷̥̱̞̭͑̄̽̀͋̚̕͠͝?̴̢̛̙̳̫͔̲̙̬̟̑͆͝?̵̛͕̯̥̽̏̉͑̎̕?̵̺͖̠̠̎̀̂̽̈̈̒`
 - **Sector-0** — ▮1750 (*RosiePies*)
     - <mark>[TRAVEL TO THIS MOON IS PROHIBITIED]</mark> | A Company Bioweapon Facility, records are scarce; however, scans indicate there was a mass evacuation caused by a containment breach of several biological weapons. Your Exploration will have *Consequences*.
-</details>
 </details>
 
 ---
