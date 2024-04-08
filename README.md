@@ -127,6 +127,23 @@ Each interior has already been balanced so no need to worry about having an infi
 -
 ![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
 
+## <ins>🏥 Mental Hospital 🏥 (*Dantor*) 🏥</ins>
+**Blank**
+### <ins>Features</ins>
+-
+-
+-
+![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
+
+## <ins>🤿 PoolRooms 🤿 (*skidz*) 🤿</ins>
+**Blank**
+### <ins>Features</ins>
+-
+-
+-
+![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
+
+
 
 
 </details>
