@@ -85,7 +85,7 @@ Each interior has already been balanced so no need to worry about having an infi
 - Blue fire torches light fire escapes
 - Abandoned treasure of a King lies deepest in the labyrinth
 - Many dungeon cells remain intact, useful for trapping enemies in a pinch
-- ![Dungeon Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/DungeonV.gif?raw=true)
+![Dungeon Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/DungeonV.gif?raw=true)
 
 ## <ins>🐀 Sewer 🐀 (*scoopy*) 🐀</ins>
 **The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further in the gross facility that soon will claim your body as its own.**
