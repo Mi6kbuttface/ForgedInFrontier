@@ -8,6 +8,10 @@ Each interior has already been balanced so no need to worry about having an infi
 
 DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, suggestions, and issues. Feel free to contact me in the [Lethal Company Modding Discord Server](https://discord.com/channels/1168655651455639582/1225622177970257961).
 #### **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
+
+# NOTICE!!! DISABLE LETHALLEVELLOADER
+As of right now, the current version of LLL has MANY issues that can cause desyncs and interior problems across hosts and clients, to fix this, a fork has been created called LethalLevelLoaderFixed, and will act as a substitute until otherwise needed.
+### MAKE SURE TO DISABLE OR UNINSTALL LETHALLEVELLOADER ONLY
 ---
 # 🌑 Moons! 🌑
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif?raw=true)
