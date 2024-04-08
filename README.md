@@ -10,7 +10,6 @@ Each interior has already been balanced so no need to worry about having an infi
 # 🌑 Moons! 🌑
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif?raw=true)
 <details><summary>Moon Prices & Info</summary>
-
 ## <ins>Risk Level: Less Than Lethal</ins> ⚠️
 <details><summary></summary>
 
