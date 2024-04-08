@@ -10,7 +10,7 @@ DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, su
 #### **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
 
 # NOTICE!!! DISABLE LETHALLEVELLOADER
-As of right now, the current version of LLL has MANY issues that can cause desyncs and interior problems across hosts and clients, to fix this, a fork has been created called LethalLevelLoaderFixed, and will act as a substitute until otherwise needed.
+As of right now, the current version of LLL has MANY issues that can cause desyncs and interior problems across hosts and clients, to fix this, a fork has been created called LethalLevelLoaderFixed and will act as a substitute until otherwise needed.
 ### MAKE SURE TO DISABLE OR UNINSTALL LETHALLEVELLOADER ONLY
 ---
 # 🌑 Moons! 🌑
@@ -102,7 +102,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/SewerV.gif?raw=true)
 
 ## <ins>☢️ Bunker ☢️ (*Major_And_Skiz*) ☢️</ins>
-**The Bunker is a dimly-lit underground stronghold, resembling the nature of WWI bunkers, with long rusted metal corridors that echo the remnants of wartime. Metal-plated bulkheads contain both treasure and traps buried deep within, leaving you unrecognizable from the corpses that lie. **
+**The Bunker is a dimly-lit underground stronghold, resembling the nature of WWI bunkers, with long rusted metal corridors that echo the remnants of wartime. Metal-plated bulkheads contain both treasure and traps buried deep within, leaving you unrecognizable from the corpses that lie.**
 ### <ins>Features</ins>
 - Bunker-specific scrap can be found only inside this interior
 - Rats rule the bunker, as they are the only thing strong enough to have survived
