@@ -92,13 +92,13 @@ Each interior has already been balanced so no need to worry about having an infi
 -
 ![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
 
-## <ins>☢️ Office ☢️ (*Major_And_Skiz*) ☢️</ins>
+## <ins>💡 Office 💡 (*Major_And_Skiz*) 💡</ins>
 **Blank**
 ### <ins>Features</ins>
 -
 -
 -
-![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
+![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
 </details>
 
 ---
