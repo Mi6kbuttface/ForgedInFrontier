@@ -5,7 +5,7 @@
 
 This expansion was crafted to create the perfect blend between the most vanilla-friendly Moons and Interiors, carefully marrying each moon with the perfect interior to complement it. 
 Each interior has already been balanced so no need to worry about having an infinite maze with no scrap in sight.
-DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, suggestions, and issues. Feel free to contact me in the [Lethal Company Modding Discord Server](https://discord.com/channels/1168655651455639582/1225622177970257961)
+DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, suggestions, and issues. Feel free to contact me in the [Lethal Company Modding Discord Server](https://discord.com/channels/1168655651455639582/1225622177970257961).
 #### **Don't worry, you can use this Modpack addon with ANY Modpack as I've included everything needed for it to be added to other packs, LMK if you'd like to include it in yours!**
 ---
 # 🌑 Moons! 🌑
