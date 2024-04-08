@@ -89,24 +89,24 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
  **The Dungeon is a dark stone prison, consisting of dim torch-lit corridors and murky castle brick walls. Metal-plated dark oak doors may lead you to spiral staircases further into the labyrinth and your chance of survival.**
 ### <ins>Features</ins>
 - Blue fire torches light fire escapes
-- Abandoned treasure of a King lies deepest in the labyrinth
+- The abandoned treasure of a King lies deepest in the labyrinth
 - Many dungeon cells remain intact, useful for trapping enemies in a pinch
 ![Dungeon Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/DungeonV.gif?raw=true)
 
 ## <ins>🐀 Sewer 🐀 (*scoopy*) 🐀</ins>
-**The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further inyo the gross facility that soon will claim your body as its own.**
+**The Sewer is a damp underground sewer system, long corridors follow a stream mixed with filth and fortune. Follow the stream to cramped piping leading you further into the gross facility that soon will claim your body as its own.**
 ### <ins>Features</ins>
 - Choose a ladder or stairway as your path into the sewer
-- Long corridors is adventageous in both the search for scrap and avoidance of enemies.
+- Long corridors are advantageous in both the search for scrap and the avoidance of enemies.
 - Broken pipe parkour rooms can be used to distance yourself from hostiles
 ![Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/SewerV.gif?raw=true)
 
 ## <ins>☢️ Bunker ☢️ (*Major_And_Skiz*) ☢️</ins>
-**The Bunker is a **
+**The Bunker is a dimly-lit underground stronghold, resembling the nature of WWI bunkers, with long rusted metal corridors that echo the remnants of wartime. Metal-plated bulkheads contain both treasure and traps buried deep within, leaving you unrecognizable from the corpses that lie. **
 ### <ins>Features</ins>
--
--
--
+- Bunker-specific scrap can be found only inside this interior
+- Rats rule the bunker, as they are the only thing strong enough to have survived
+- A familiar yet different radioactive buzzing can be heard inside this facility
 ![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
 
 ## <ins>💡 Office 💡 (*Piggy*) 💡</ins>
