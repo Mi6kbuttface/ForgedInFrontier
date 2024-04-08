@@ -42,6 +42,8 @@ Each interior has already been balanced so no need to worry about having an infi
 </details>
 
 ## <ins>Risk Level: A</ins> ⚠️
+<details><summary></summary>
+
 - **Gratar** — ▮430 (*Magic_Wesley*)
     - A Mountainous Moon, once known for the largest AI-powered factory in the solar system, may still contain many high-value resources.
 - **Desolation** — ▮510 (*Magic_Wesley*)
@@ -50,7 +52,11 @@ Each interior has already been balanced so no need to worry about having an infi
     - A Radioactive Moon, housing an old toy factory retrofitted as a nuclear power plant, highly radioactive materials and toxic waste remain inside the facility.
 - **Polarus** — ▮650 (*Magic_Wesley*)
     - A Frozen Moon, home to the legendary Polar Vaults, has yet to be reclaimed, and its riches and treasures are buried deep.
+</details>
+
 ## <ins>Risk Level: S</ins> ⚠️
+<details><summary></summary>
+
 - **Acidir** — ▮580 (*Magic_Wesley*)
     - A Mysterious cursed moon, within an acidic swamp lies an old mansion with remains of something... lies inside.
 - **Oldred** — ▮720 (Magic_Wesley)
@@ -59,6 +65,8 @@ Each interior has already been balanced so no need to worry about having an infi
     - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
 - **Etern** — ▮750 (*Magic_Wesley*)
     - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
+</details>
+
 ## <ins>Risk Level: S+</ins> ⚠️
 - **Auralis** — ▮750 (*AudioKnight*)
     - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
