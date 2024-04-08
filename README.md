@@ -13,12 +13,9 @@ DON'T FEEL AFRAID TO GIVE ME FEEDBACK!!! I want to hear all of your thoughts, su
 As of right now, the current version of LLL has MANY issues that can cause desyncs and interior problems across hosts and clients, to fix this, a fork has been created called LethalLevelLoaderFixed, and will act as a substitute until otherwise needed.
 ### MAKE SURE TO DISABLE OR UNINSTALL LETHALLEVELLOADER ONLY
 ---
-
-<details><summary>
-
 # 🌑 Moons! 🌑
 ![Moons](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ForgedInFrontierMoonsBanner.gif?raw=true)
-
+<details><summary>
 
 ## Moon Prices & Info
 </summary>
