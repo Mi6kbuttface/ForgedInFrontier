@@ -104,48 +104,44 @@ Each interior has already been balanced so no need to worry about having an infi
 ![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
 
 ## <ins>💡 Office 💡 (*Piggy*) 💡</ins>
-**Blank**
+**The Office is**
 ### <ins>Features</ins>
 -
 -
 -
-![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
+![Office Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/OfficeV.gif?raw=true)
 
 ## <ins>㊙️ Scarlet Devil Mansion ㊙️ (*Alice*) ㊙️</ins>
-**Blank**
+**The Scarlet Devil Mansion**
 ### <ins>Features</ins>
 -
 -
 -
-![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
+![Scarlet Devil Mansion Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ScarletDevilMansionV.gif?raw=true)
 
 ## <ins>🤿 PoolRooms 🤿 (*skidz*) 🤿</ins>
-**Blank**
+**The PoolRooms are**
 ### <ins>Features</ins>
 -
 -
 -
-![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
+![PoolRooms Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/PoolRoomsV.gif?raw=true)
 
 ## <ins>🏥 Mental Hospital 🏥 (*Dantor*) 🏥</ins>
-**Blank**
+**The Mental Hospital**
 ### <ins>Features</ins>
 -
 -
 -
-![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
+![Mental Hospital Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/MentalHospitalV.gif?raw=true)
 
 ## <ins>🚨 Sector-0 🚨 (*RosiePies*) 🚨</ins>
-**Blank**
+**Sector-0**
 ### <ins>Features</ins>
 -
 -
 -
-![oFFICE Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
-
-
-
-
+![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/Sector0V.gif?raw=true)
 </details>
 
 ---
