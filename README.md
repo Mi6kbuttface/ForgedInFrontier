@@ -114,7 +114,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ### <ins>Features</ins>
 - shrimp
 - elevator
-- bugs every other tuesday
+- bugs every other Tuesday
 ![Office Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/OfficeV.gif?raw=true)
 
 ## <ins>💎 Scarlet Devil Mansion 💎 (*Alice*) 💎</ins>
