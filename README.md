@@ -110,7 +110,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
 
 ## <ins>💡 Office 💡 (*Piggy*) 💡</ins>
-**The Office is**
+**The Office is a**
 ### <ins>Features</ins>
 -
 -
