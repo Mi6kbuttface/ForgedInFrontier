@@ -110,7 +110,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
 
 ## <ins>💡 Office 💡 (*Piggy*) 💡</ins>
-**The Office is an abandoned Company bureau, containing multiple floors and a powered elevator. **
+**The Office is an abandoned Company bureau, containing multiple floors and a powered elevator. In the Hallways filled with computers and belongings left behind, **
 ### <ins>Features</ins>
 - An elevator that can be controlled from the terminal [1F 2F 3F]
 - A new enemy called The Shrimp, passive until you fail to feed it
