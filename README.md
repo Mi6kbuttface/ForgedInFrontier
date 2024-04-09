@@ -102,7 +102,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Sewer Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/SewerV.gif?raw=true)
 
 ## <ins>☢️ Bunker ☢️ (*Major_And_Skiz*) ☢️</ins>
-**The Bunker is a dimly-lit underground stronghold, resembling the nature of WWI bunkers, with long rusted metal corridors that echo the remnants of wartime. Metal-plated bulkheads contain both treasure and traps buried deep within, leaving you unrecognizable from the corpses that lie.**
+**The Bunker is a dimly-lit underground stronghold, resembling the nature of WWI bunkers, with long rusted metal corridors that echo the remnants of wartime. Metal-plated bulkheads contain both treasure and traps buried deep within.**
 ### <ins>Features</ins>
 - Bunker-specific scrap can be found only inside this interior
 - Rats rule the bunker, as they are the only thing strong enough to have survived
@@ -110,11 +110,11 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Bunker Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/BunkerV.gif?raw=true)
 
 ## <ins>💡 Office 💡 (*Piggy*) 💡</ins>
-**The Office is a**
+**The Office is an abandoned Company bureau, containing multiple floors and a powered elevator. **
 ### <ins>Features</ins>
-- shrimp
-- elevator
-- bugs every other Tuesday
+- An elevator that can be controlled from the terminal [1F 2F 3F]
+- A new enemy called The Shrimp, passive until you fail to feed it
+- 
 ![Office Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/OfficeV.gif?raw=true)
 
 ## <ins>💎 Scarlet Devil Mansion 💎 (*Alice*) 💎</ins>
