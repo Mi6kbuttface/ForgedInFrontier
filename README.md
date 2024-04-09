@@ -112,9 +112,9 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ## <ins>💡 Office 💡 (*Piggy*) 💡</ins>
 **The Office is a**
 ### <ins>Features</ins>
--
--
--
+- shrimp
+- elevator
+- bugs every other tuesday
 ![Office Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/OfficeV.gif?raw=true)
 
 ## <ins>💎 Scarlet Devil Mansion 💎 (*Alice*) 💎</ins>
