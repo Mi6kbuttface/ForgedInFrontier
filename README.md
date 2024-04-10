@@ -124,7 +124,6 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Paintings can be found inside the mansion, their value is immense, however, the risk of stealing them will be proportional
 - Suits of haunted Knight armor can be found patrolling the halls, watch your back as they only like to strike from behind
 - Rare powerful colored crystals can be found, which could either be sold for profit, or used to enhance your company-provided flashlights
-- 
 ![Scarlet Devil Mansion Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ScarletDevilMansionV.gif?raw=true)
 
 ## <ins>🤿 PoolRooms 🤿 (*skidz*) 🤿</ins>
