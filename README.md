@@ -65,10 +65,10 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
     - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
 
 ## <ins>Risk Level: S+</ins> ⚠️
-- **Auralis** — ▮750 (*AudioKnight*)
-    - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
 - **Etern** — ▮750 (*Magic_Wesley*)
     - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
+- **Auralis** — ▮800 (*AudioKnight*)
+    - A Frigid Tundra Moon, one of The Company's rumored testing facilities, disguised as a general goods manufacturing plant, the danger has been reported to be high, with the promise of even higher valuables.
 
 ## <ins>Risk Level: SSS+</ins> ⚠️
 - **Cosmocos** — ▮1000 (Magic_Wesley)
