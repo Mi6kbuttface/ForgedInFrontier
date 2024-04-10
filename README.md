@@ -120,9 +120,9 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ## <ins>💎 Scarlet Devil Mansion 💎 (*Alice*) 💎</ins>
 **The Scarlet Devil Mansion is a haunted evil manor devoided of most color, hallways lit with torches, and **
 ### <ins>Features</ins>
--
--
--
+- The doors inside the mansion can be destroyed, by employees and creatures alike
+- Paintings can be found inside the mansion, their value is immense, however, the risk of stealing them will be proportional
+- Suits of haunted Knight armor can be found patrolling the halls, watch your back as they only like to strike from behind.
 ![Scarlet Devil Mansion Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ScarletDevilMansionV.gif?raw=true)
 
 ## <ins>🤿 PoolRooms 🤿 (*skidz*) 🤿</ins>
