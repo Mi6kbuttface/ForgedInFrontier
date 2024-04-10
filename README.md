@@ -137,9 +137,9 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ## <ins>🏥 Mental Hospital 🏥 (*Dantor*) 🏥</ins>
 **The Mental Hospital is a psychiatric institution, designed to treat and cure even the most insane of employees. Littered with remnants of previous patients, it seems there was more than meets the eye, surgical tables, poisonous sedative gas, and even death traps were designed to keep employees like you from seeing the light of day.**
 ### <ins>Features</ins>
+- Every time you enter may look different from your last; I'm sure this has nothing to do with your mental health
 - Death traps are constructed around the building, many containing parkour, y'know, to stop patients from escaping
 - Pipes contain poisonous laughing gas, which may not be as funny if you breathe it in
-- im sick in the head idk
 ![Mental Hospital Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/MentalHospitalV.gif?raw=true)
 
 ## <ins>🚨 Sector-0 🚨 (*RosiePies*) 🚨</ins>
