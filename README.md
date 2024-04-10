@@ -127,7 +127,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Scarlet Devil Mansion Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ScarletDevilMansionV.gif?raw=true)
 
 ## <ins>🤿 PoolRooms 🤿 (*skidz*) 🤿</ins>
-**The PoolRooms are**
+**The PoolRooms are an anomaly resembling the characteristics and aesthetics of the modern-day swimming pool. Equipped with bathrooms, lockers, and spas, most of the rooms appear to be slightly submerged in lukewarm water, this liminal space appears easy to lose yourself in.**
 ### <ins>Features</ins>
 -
 -
