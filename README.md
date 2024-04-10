@@ -114,11 +114,11 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ### <ins>Features</ins>
 - The Elevator used to travel between floors, can be controlled using the terminal commands: [1F, 2F, 3F]
 - The Elevator also contains storage shelves, which can help with hauling scrap and equipment in and out of the facility
-- A new enemy called The Shrimp is passive until you fail to feed it, in which case you become it's next meal.
+- A new enemy called The Shrimp is passive until you fail to feed it, in which case you become its next meal
 ![Office Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/OfficeV.gif?raw=true)
 
 ## <ins>💎 Scarlet Devil Mansion 💎 (*Alice*) 💎</ins>
-**The Scarlet Devil Mansion**
+**The Scarlet Devil Mansion is a haunted evil manor devoided of most color, hallways lit with torches, and **
 ### <ins>Features</ins>
 -
 -
