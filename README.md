@@ -127,11 +127,11 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Scarlet Devil Mansion Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/ScarletDevilMansionV.gif?raw=true)
 
 ## <ins>🤿 PoolRooms 🤿 (*skidz*) 🤿</ins>
-**The PoolRooms are an anomaly resembling the characteristics and aesthetics of the modern-day swimming pool. Equipped with bathrooms, lockers, and spas, most of the rooms appear to be slightly submerged in lukewarm water, this liminal space appears easy to lose yourself in.**
+**The PoolRooms are an anomaly resembling the characteristics and aesthetics of the modern-day swimming pool. Equipped with bathrooms, lockers, and saunas, most of the rooms appear to be slightly submerged in lukewarm water, this liminal space appears easy to lose yourself in.**
 ### <ins>Features</ins>
--
--
--
+- Lockers are great places to search for hidden loot
+- Pool toys and utilities can be found lying around the area
+- Water appears to have trace amounts of Epsom salt for muscle relief, and the saunas are fully functional
 ![PoolRooms Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/PoolRoomsV.gif?raw=true)
 
 ## <ins>🏥 Mental Hospital 🏥 (*Dantor*) 🏥</ins>
