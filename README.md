@@ -143,9 +143,9 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Mental Hospital Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/MentalHospitalV.gif?raw=true)
 
 ## <ins>🚨 Sector-0 🚨 (*RosiePies*) 🚨</ins>
-**Sector-0 is a restricted Company containment facility, rumored to house **
+**Sector-0 is classified Company information, only Authorized Assets may be debriefed. Containment Breaches **
 ### <ins>Features</ins>
--
+- Facility
 -
 -
 ![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/Sector0V.gif?raw=true)
