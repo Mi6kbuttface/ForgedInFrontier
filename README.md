@@ -167,8 +167,10 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 <details>
 
 **The Original spreadsheet was organized and made by [Easyidle123](https://thunderstore.io/c/lethal-company/p/Easyidle123/?section=modpacks), and feel free to ask him or me to make a version of your own using either of ours as a template!**
+<summary>
 
 ## <ins>[EQM Interior Rarities](https://docs.google.com/spreadsheets/d/1T2wzTUHbQfy1O8e0B20XglbPA87ZCX6UPG2SY0fp-YE/edit#gid=65197106)</ins>
+</summary>
 </details>
 
 ---
