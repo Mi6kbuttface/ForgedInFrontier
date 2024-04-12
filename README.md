@@ -179,6 +179,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - [IAmBatby](https://thunderstore.io/c/lethal-company/p/IAmBatby/) For creating such an advanced system that allows for all of these Interiors and Moons to be possible in the first place!
 - [Dantor](https://thunderstore.io/c/lethal-company/p/Dantor/) For having my favorite interior [The Mental Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/), I love the mental hospital with my soul, it's where I belong.
 - J.e.s.t My poor lab rat that helped me test all of this. Here is some cheese 🧀.
+
 ---
 ## 🔗 CONTACT ME! 🔗
 - If you ever need me for anything, I'm more than happy to help. Shoot me a message over in the [Lethal Company Modding Discord](https://discord.com/channels/1168655651455639582/1225622177970257961), or DM me directly: [@Mi6kbuttface](https://discordapp.com/users/753382823557070970)
