@@ -150,6 +150,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Most containment capsules seem operational, yet unstable and on the verge of failure
 ![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/Sector0V.gif?raw=true)
 </details>
+
 ---
 
 # Credits! :cd: 
