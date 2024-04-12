@@ -1,6 +1,6 @@
-# ForgedInFrontier
+# 「ForgedInFrontier」
 ---
-# [RELEASE!!!] <ins>Welcome To ForgedInFrontier!</ins>
+# <ins>[RELEASE!!!] Welcome To ForgedInFrontier!</ins>
 ### [1.0.0] [For LC v49] An expansion pack that adds **20+ Quality Moons** and **8 Unique Interiors**, Balanced and Configured for ***ForgedInFatality***, a Challenging yet Balanced Modpack designed to <ins>Test Your Mortality!</ins>
 
 This expansion was crafted to create the perfect blend between the most vanilla-friendly Moons and Interiors, carefully marrying each moon with the perfect interior to complement it. 
