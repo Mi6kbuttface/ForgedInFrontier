@@ -1,0 +1,31 @@
+{
+  "name": "ForgedInFrontier",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Mi6kbuttface/ForgedInFrontier",
+  "description": "[RELEASE!!!] ForgedInFrontier is an expansion pack that adds 20+ Quality Moons and 8 Unique Interiors, Balanced and Configured for ForgedInFatality, however, Designed to work with any existing Modpack. Test Your Mortality!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "jockie-LethalExpansionCore-1.3.15",
+    "Evaisa-HookGenPatcher-0.0.5",
+    "Evaisa-LethalLib-0.15.1",
+    "scoopy-Scoopys_Variety_Mod-1.2.0",
+    "Lordfirespeed-OdinSerializer-2022.11.9",
+    "AudioKnight-StarlancerAIFix-3.4.0",
+    "Hardy-LCMaxSoundsFix-1.1.0",
+    "AudioKnight-StarlancerMoons-1.4.2",
+    "Major_And_Skiz-MoreInteriors-2.5.0",
+    "sfDesat-ViewExtension-1.1.0",
+    "Magic_Wesley-Wesleys_Moons-3.1.10",
+    "mrov-TerminalFormatter-0.0.15",
+    "skidz-PoolRooms-0.1.20",
+    "Dantor-Dantors_Mental_Hospital-1.2.2",
+    "fumiko-CullFactory-1.0.3",
+    "Refract-LethalLevelLoaderFixed-1.1.0",
+    "Alice-ScarletDevilMansion-1.3.7",
+    "sfDesat-sfDesat-2.0.3",
+    "RosiePies-Rosies_Moons-1.2.4",
+    "xilophor-LethalNetworkAPI-2.1.6",
+    "Piggy-LC_Office-1.1.24",
+    "IAmBatby-LethalLevelLoader-1.1.6"
+  ]
+}
