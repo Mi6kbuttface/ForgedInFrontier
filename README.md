@@ -154,12 +154,13 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ---
 # 📃 Configs Spreadsheet! 📃
 ###  <ins>[FiF Interior Configs](https://docs.google.com/spreadsheets/d/1prrFkH3J4WONrRQv2MfWdP3K2rT6cYqe3fLDjqQ3kg4/edit#gid=1992628571)</ins>
-
+<details>
 **This contains:**
 - All my Interior weights for Vanilla and Modded moons (includes moons not in the pack such as Tolian's Moons, Atlas Abyss, EGypt, and more!
 - A system that automatically generates the configs for the interiors including correct formatting
 - Graphs that can display the information in an easy-to-understand format.
 - A system to automatically compare and document changes from any version of your modpack to your current, for easier changelog organization.
+</details>
 
 **The Original spreadsheet was organized and made by @easyidle, and feel free to ask him or me to make a version of your own using either of ours as a template!**
 ### __**EQM's Interior Configs:**__
