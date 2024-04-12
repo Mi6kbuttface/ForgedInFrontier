@@ -150,12 +150,13 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Most containment capsules seem operational, yet unstable and on the verge of failure
 ![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/Sector0V.gif?raw=true)
 </details>
-
 ---
-## Credit
-Big thanks to EasyIdle on the TMLC and Lethal Company Modding discords for his work in configuring interiors and moons and providing his spreadsheet as a tool to help others. Much love dude, I could not make this modpack without you! 
-
-Thanks to Wesley, Tolian, SfDesat, and AudioKnight for all their beautiful work and the fantastic help and feedback they gave me on balancing the interiors on each of their moons.
+# Credits! :cd: 
+- @easyidle For https://discord.com/channels/1168655651455639582/1225499010131824710 , the Modpack addon that introduced me to Modded Moons and Interiors. He provided me all the inspiration to make my own Modpack addon, and provided me with all the tools and advice to do so! :purple_heart: Big love.
+- @magicwesley For the absurd amount of quality and beautiful moons that make the majority of this Modpack. Shoutout https://discord.com/channels/1168655651455639582/1204432295025578014 all my homies love https://discord.com/channels/1168655651455639582/1204432295025578014 !!!!
+- @iambatby For creating such an advanced system that allows for all of these Interiors and Moons to be possible in the first place!
+- @dantoresco For having my favorite interior https://discord.com/channels/1168655651455639582/1205741904881516595, I love the mental hospital with my soul, it's where I belong.
+- @j.e.s.t. My poor lab rat that helped me test all of this. Here is some cheese :cheese:.
 
 ## CONTACT ME
 - If you encounter any bugs, feel free to ping me over at the modding discord ([@Mi6kbuttface](https://discord.com/users/753382823557070970)) or just DM me directly.
