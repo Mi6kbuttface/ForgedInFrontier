@@ -32,7 +32,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
     - A Pitch-Black Asteroid, recorded as a biological weapon test site with high-value research estimated inside.
 - **Solace** — ▮0 (*AudioKnight*)
     - A Tranquil Moon, known to house many vacation villas by wealthy quintillionaires, abandoned due to growing hostile fauna.
-- **Eve** — ▮110 (*RosiePies*)
+- **Eve** — ▮0 (*RosiePies*)
     - A Life Suitable Moon, once the center of the Eve Colonization Project, a perfectly suitable host to sustain life, a flourishing colony thrived here until transmitted distress signals were received. Investigate further, and seek survivors.
 - **Atlantica** — ▮130 (*Magic_Wesley*)
     - An Oceanic Moon, containing a city in a cursed time paradox that causes it to sink repeatedly. Recover its artifacts with haste.
