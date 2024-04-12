@@ -155,9 +155,9 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 
 # Credits! :cd: 
 - [Easyidle123](https://thunderstore.io/c/lethal-company/p/Easyidle123/?section=modpacks) For [Easyidles Quality Moons](https://thunderstore.io/c/lethal-company/p/Easyidle123/Easyidles_Quality_Moons/), the Modpack addon that introduced me to Modded Moons and Interiors. He provided me with all the inspiration to make my own Modpack addon, and provided me with all the tools and advice to do so! 💜 Big love.
-- [Magic Wesley](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/) For the absurd amount of quality and beautiful moons that make the majority of this Modpack. Shoutout (Wesleys Moons)[https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/] all my homies love (Wesleys Moons)[https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/]!!!!
-- @iambatby For creating such an advanced system that allows for all of these Interiors and Moons to be possible in the first place!
-- @dantoresco For having my favorite interior https://discord.com/channels/1168655651455639582/1205741904881516595, I love the mental hospital with my soul, it's where I belong.
+- [Magic Wesley](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/) For the absurd amount of quality and beautiful moons that make the majority of this Modpack. Shoutout [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/) all my homies love [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/)!!!!
+- [IAmBatby](https://thunderstore.io/c/lethal-company/p/IAmBatby/) For creating such an advanced system that allows for all of these Interiors and Moons to be possible in the first place!
+- [Dantor](https://thunderstore.io/c/lethal-company/p/Dantor/) For having my favorite interior [The Mental Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/), I love the mental hospital with my soul, it's where I belong.
 - J.e.s.t My poor lab rat that helped me test all of this. Here is some cheese 🧀.
 
 ## CONTACT ME
