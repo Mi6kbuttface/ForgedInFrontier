@@ -62,8 +62,6 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
     - A Slick Shadowy Moon, rich in its abundant natural crude oil, mining rigs were constructed in hopes of massive profits; however, many horrors deterred most from the devastation this moon can create.
 - **Orion** — ▮750 (*sfDesat*)
     - A Dry Desert Moon, housing only one remaining standing building, which appears to be a church-like structure, but scans cannot indicate what lies inside.
-- **Etern** — ▮750 (*Magic_Wesley*)
-    - A Dune Desert Moon, hides a laboratory rumored to be the birthplace of the Baboon Hawks and more. Great intel lies inside.
 
 ## <ins>Risk Level: S+</ins> ⚠️
 - **Etern** — ▮750 (*Magic_Wesley*)
