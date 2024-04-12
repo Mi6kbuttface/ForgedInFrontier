@@ -152,7 +152,19 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 </details>
 
 ---
+# <ins>Moons & Interiors Spreadsheet 📃</ins>
+### __**FiF Interior Configs:**__
+[FiF Moons Interiors Configs](https://docs.google.com/spreadsheets/d/1prrFkH3J4WONrRQv2MfWdP3K2rT6cYqe3fLDjqQ3kg4/edit#gid=1992628571)
+**This contains:**
+- All my Interior weights for Vanilla and Modded moons (includes moons not in the pack such as Tolian's Moons, Atlas Abyss, EGypt, and more!
+- A system that automatically generates the configs for the interiors including correct formatting
+- Graphs that can display the information in an easy-to-understand format.
+- A system to automatically compare and document changes from any version of your modpack to your current, for easier changelog organization.
 
+**The Original spreadsheet was organized and made by @easyidle, and feel free to ask him or me to make a version of your own using either of ours as a template!**
+### __**EQM's Interior Configs:**__
+[Easyidle's Quality Moons interiors rarities](https://docs.google.com/spreadsheets/d/1T2wzTUHbQfy1O8e0B20XglbPA87ZCX6UPG2SY0fp-YE/edit#gid=65197106)
+---
 # Credits! :cd: 
 - [Easyidle123](https://thunderstore.io/c/lethal-company/p/Easyidle123/?section=modpacks) For [Easyidles Quality Moons](https://thunderstore.io/c/lethal-company/p/Easyidle123/Easyidles_Quality_Moons/), the Modpack addon that introduced me to Modded Moons and Interiors. He provided me with all the inspiration to make my own Modpack addon, and provided me with all the tools and advice to do so! 💜 Big love.
 - [Magic Wesley](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/) For the absurd amount of quality and beautiful moons that make the majority of this Modpack. Shoutout [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/) all my homies love [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/)!!!!
