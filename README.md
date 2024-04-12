@@ -152,8 +152,8 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 </details>
 
 ---
-# <ins>Moons & Interiors Spreadsheet 📃</ins>
-### __**FiF Interior Configs:**__
+# 📃 Configs Spreadsheet! 📃
+###  <ins>**FiF Interior Configs:**</ins>
 [FiF Moons Interiors Configs](https://docs.google.com/spreadsheets/d/1prrFkH3J4WONrRQv2MfWdP3K2rT6cYqe3fLDjqQ3kg4/edit#gid=1992628571)
 **This contains:**
 - All my Interior weights for Vanilla and Modded moons (includes moons not in the pack such as Tolian's Moons, Atlas Abyss, EGypt, and more!
