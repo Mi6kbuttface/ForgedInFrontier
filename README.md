@@ -150,8 +150,8 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - Most containment capsules seem operational, yet unstable and on the verge of failure
 ![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/Sector0V.gif?raw=true)
 </details>
-
 ---
+
 # 📃 Configs Spreadsheet! 📃
 <details><summary>
 
@@ -165,10 +165,10 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 - A system to automatically compare and document changes from any version of your modpack to your current, for easier changelog organization.
 </details>
 
-**The Original spreadsheet was organized and made by @easyidle, and feel free to ask him or me to make a version of your own using either of ours as a template!**
-### __**EQM's Interior Configs:**__
-[Easyidle's Quality Moons interiors rarities](https://docs.google.com/spreadsheets/d/1T2wzTUHbQfy1O8e0B20XglbPA87ZCX6UPG2SY0fp-YE/edit#gid=65197106)
+**The Original spreadsheet was organized and made by [Easyidle123](https://thunderstore.io/c/lethal-company/p/Easyidle123/?section=modpacks), and feel free to ask him or me to make a version of your own using either of ours as a template!**
+## <ins>[EQM Interior Rarities](https://docs.google.com/spreadsheets/d/1T2wzTUHbQfy1O8e0B20XglbPA87ZCX6UPG2SY0fp-YE/edit#gid=65197106)</ins>
 ---
+
 # Credits! :cd: 
 - [Easyidle123](https://thunderstore.io/c/lethal-company/p/Easyidle123/?section=modpacks) For [Easyidles Quality Moons](https://thunderstore.io/c/lethal-company/p/Easyidle123/Easyidles_Quality_Moons/), the Modpack addon that introduced me to Modded Moons and Interiors. He provided me with all the inspiration to make my own Modpack addon, and provided me with all the tools and advice to do so! 💜 Big love.
 - [Magic Wesley](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/) For the absurd amount of quality and beautiful moons that make the majority of this Modpack. Shoutout [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/) all my homies love [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/)!!!!
