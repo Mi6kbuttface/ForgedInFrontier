@@ -143,11 +143,11 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Mental Hospital Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/MentalHospitalV.gif?raw=true)
 
 ## <ins>🚨 Sector-0 🚨 (*RosiePies*) 🚨</ins>
-**Sector-0 is classified Company information, only Authorized Assets may be debriefed. Containment Breaches **
+**Sector-0 was a classified Company bioweapon containment zone, only Authorized Assets may be debriefed. An evacuation-level event occurred in the Biolabs, resulting from multiple containment breaches, causing the immediate evacuation and abandonment of all Sector-0 facilities; it is advised that you do not investigate further. Your death will not be insured.**
 ### <ins>Features</ins>
-- Facility
--
--
+- Nontoxic gas leaks in a large room with scaffolding
+- Powered lifts can be used to ascend or descend floors
+- Most containment capsules seem operational, yet unstable and on the verge of failure
 ![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/Sector0V.gif?raw=true)
 </details>
 
