@@ -151,6 +151,7 @@ As of right now, the current version of LLL has MANY issues that can cause desyn
 ![Sector-0 Tapes](https://github.com/Mi6kbuttface/ForgedInFrontier/blob/main/Sector0V.gif?raw=true)
 </details>
 ---
+
 # Credits! :cd: 
 - @easyidle For https://discord.com/channels/1168655651455639582/1225499010131824710 , the Modpack addon that introduced me to Modded Moons and Interiors. He provided me all the inspiration to make my own Modpack addon, and provided me with all the tools and advice to do so! :purple_heart: Big love.
 - @magicwesley For the absurd amount of quality and beautiful moons that make the majority of this Modpack. Shoutout https://discord.com/channels/1168655651455639582/1204432295025578014 all my homies love https://discord.com/channels/1168655651455639582/1204432295025578014 !!!!
